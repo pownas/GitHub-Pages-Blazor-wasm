@@ -8,11 +8,11 @@ jobs:
         # Checkout the code
         - uses: actions/checkout@v2
 
-        # Install .NET SDK
-        - name: Setup .NET
+        # Install .NET Core SDK
+        - name: Setup .NET Core
           uses: actions/setup-dotnet@v1
           with:
-            dotnet-version: 5.0
+            dotnet-version: 3.1.x
 
         # Run tests
         - name: Test
