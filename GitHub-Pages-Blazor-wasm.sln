@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30709.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GitHub-Pages-Blazor-wasm", "src\GitHub-Pages-Blazor-wasm.csproj", "{165BC397-9AEE-420E-8769-E42A52FD8B22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHub-Pages-Blazor-wasm", "src\GitHub-Pages-Blazor-wasm.csproj", "{60A8AD9A-3BDD-460F-9390-AF72F056DD60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{165BC397-9AEE-420E-8769-E42A52FD8B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{165BC397-9AEE-420E-8769-E42A52FD8B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{165BC397-9AEE-420E-8769-E42A52FD8B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{165BC397-9AEE-420E-8769-E42A52FD8B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A8AD9A-3BDD-460F-9390-AF72F056DD60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A8AD9A-3BDD-460F-9390-AF72F056DD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A8AD9A-3BDD-460F-9390-AF72F056DD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A8AD9A-3BDD-460F-9390-AF72F056DD60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A38EA734-1DEA-4A9F-976A-895418D72229}
+		SolutionGuid = {ED83D57E-69D6-4E2C-849B-D07AF73D0D6C}
 	EndGlobalSection
 EndGlobal
