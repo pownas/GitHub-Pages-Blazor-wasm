@@ -6,3 +6,6 @@ Gav upp.
 Guide: https://www.meziantou.net/publishing-a-blazor-webassembly-application-to-github-pages.htm
 
 Raderat token, behöver skapa ny
+
+## 2021-03-10
+Gör ett nytt projekt och försöker lite på egen hand... 
