@@ -61,7 +61,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-1VaogQheMQTbLoBrzvkqF6NQcpDtg2j5f\/KR\/OHY5WQ=",
+      "hash": "sha256-9kYNzIuVfL\/o3ScC3RV67H5j4Sd6nCowTrFPQK5ykMU=",
       "url": "manifest.json"
     },
     {
@@ -245,5 +245,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "NcyHZXTJ"
+  "version": "SWDyXfWB"
 };
