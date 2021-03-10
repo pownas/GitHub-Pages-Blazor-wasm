@@ -1,7 +1,7 @@
 {
   "name": "GitHub-Pages-Blazor-wasm",
   "short_name": "GitHub-Pages-Blazor-wasm",
-  "start_url": "./",
+  "start_url": "./GitHub-Pages-Blazor-wasm/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
